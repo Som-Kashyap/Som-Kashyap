@@ -30,5 +30,6 @@ I'm currently learning and building projects across the following domains:-
 
 ### Connect With Me
 - Email: somkashyap0123@gmail.com
+
 - Linkedin: https://www.linkedin.com/in/som-kashyap-716918375/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsTlfitd5QLylHmParIlQLg%3D%3D
 
