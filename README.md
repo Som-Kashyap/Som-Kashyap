@@ -7,8 +7,8 @@ My current aim is to build strong programming fundamentals and problem-solving s
 
 I'm currently learning and building projects across the following domains:-  
 
-- C++ (console applications / database projects)
-- Web Development (HTML / CSS / JavaScript) - frontend development
+- C++ (console applications / database projects / DSA)
+- Web Development (HTML / CSS / JavaScript / React.js / MongoDB)
 - Graphics Programming (2D games using C++ and SFML)
 
 ### 🟢Projects
